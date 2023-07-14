@@ -1,7 +1,8 @@
-#This is my small project in order to practice using React as a beginner. This project is built in one week, with a reference from youtube's freecodeCamp 
 
 
-## I use Replit to buid this project
+## I use Replit to build this project
+This is my small project in order to practice using React as a beginner. This project is built in one week, with a reference from youtube's freecodeCamp 
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
